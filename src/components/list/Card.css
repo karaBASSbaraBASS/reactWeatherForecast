@@ -1,0 +1,18 @@
+.cardItem {
+  width: calc(25% - 50px);
+  margin: 15px 15px;
+  padding: 15px 10px;
+  background-color: #d5ebf8;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  border-radius: 10px;
+}
+.iconPack {
+  display: flex;
+  align-items: center;
+  justify-content: left;
+}
+.iconcaption {
+  padding-left: 20px;
+}
